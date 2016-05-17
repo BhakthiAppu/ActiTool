@@ -61,6 +61,8 @@ public class SignUpPage {
 	public void setEmailAddress()
 	{
 		emailAdrrs.sendKeys("shree@gmail.com");
+		
+		System.out.println("hi");
 	}
 	
 	public void serConfirmEmailAddress()
